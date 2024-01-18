@@ -5,7 +5,7 @@ Ce dépôt contient les défis qui seront utilisés pour faire la sélection des
 ## Pour participer aux qualifications
 
 Vous devrez remplir le [formulaire de participation](https://forms.gle/GHDpf8qdPoavJ8GZ7) et créez un dépôt Gitlab ou Github **privé** contenant vos solutions pour les défis.
-Ce dépôt devra contenir un fichier `README` à sa racine dans lequel vous indiquerez votre nom et code permanent ainsi que la liste des défis pour lesquels vous présentez une solutions (partielle ou complète; une tentative de solution qui a du sens est mieux que rien du tout).
+Ce dépôt devra contenir un fichier `README` à sa racine dans lequel vous indiquerez votre nom et code permanent ainsi que la liste des défis pour lesquels vous présentez une solution (partielle ou complète; une tentative de solution qui a du sens est mieux que rien du tout).
 
 Vous devrez donner accès à votre dépôt à: 
 - [@Armand.Briere](https://gitlab.com/Armand.Briere) sur Gitlab
@@ -23,8 +23,8 @@ Vous devrez donner accès à votre dépôt à:
 
 ## Remerciement
 
-- Merci à [@f0b](https://github.com/antifob) et [@Calegh](https://gitlab.com/Calegh) pour avoir partagé leur resources m'ayant aidé pour ces qualifications.
-- Merci tout autre personnes ayant participé dans le passé à la conception des différents challenge réutilisés.
+- Merci à [@f0b](https://github.com/antifob) et [@Calegh](https://gitlab.com/Calegh) pour avoir partagé leurs ressources m'ayant aidé pour ces qualifications.
+- Merci tout autres personnes ayant participé dans le passé à la conception des différents challenge réutilisés.
 
 [1]: http://2024.csgames.org/
 [2]: https://forms.gle/GHDpf8qdPoavJ8GZ7
