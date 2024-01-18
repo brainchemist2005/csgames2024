@@ -24,6 +24,7 @@ Vous devrez donner accès à votre dépôt à:
 ## Remerciement
 
 - Merci à [@f0b](https://github.com/antifob) et [@Calegh](https://gitlab.com/Calegh) pour avoir partagé leur resources m'ayant aidé pour ces qualifications.
+- Merci tout autre personnes ayant participé dans le passé à la conception des différents challenge réutilisés.
 
 [1]: http://2024.csgames.org/
 [2]: https://forms.gle/GHDpf8qdPoavJ8GZ7

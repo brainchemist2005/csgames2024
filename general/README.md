@@ -6,7 +6,15 @@ De plus, les épreuves de cette catégorie se veulent plus accessibles afin de d
 
 ## Contraintes
 
-Vous **devez** utiliser un des langages suivant (il n'est pas obligatoire d'utiliser le même pour chacun de défis): shell/bash, C, C++, Java, Python ou Ruby.
+Vous **devez** utiliser un des langages suivant (il n'est pas obligatoire d'utiliser le même pour chacun de défis) :
+
+- shell/bash
+- C
+- C++
+- Java
+- Python
+- Javascript / Typescript
+- Golang
 
 Vous **devez** fournir une liste des dépendances pour vos programmes ainsi qu'une documentation de la procédure pour les exécuter.
 
@@ -36,12 +44,12 @@ On compte de 1 à 100 inclusivement, si le nombre est un multiple de 3, on affic
 
 ### Règles
 
-Chaque joueur jette un dès à 6 faces:
+Chaque joueur jette un dès à 6 faces :
 
- - Si les deux joueurs ont la même valeur, le jeu s'arrête et celui qui a le plus d'artichauts gagne.
- - Autrement celui qui à la plus grande valeur gagne autant d'artichaut que la différence.
- - En plus, s'il a fait un 6, il vole 17% des artichauts que son adversaire a présentement (arrondi à l'entier supérieur).
- - Toutefois, si un joueur fait 1 et l'autre fait six, le nombre d'artichauts des deux joueurs et remis à zéro, trois parties sont rejouées et le gagnant de la partie est celui qui gagne une majorité de ces 3 nouvelles parties.
+- Si les deux joueurs ont la même valeur, le jeu s'arrête et celui qui a le plus d'artichauts gagne.
+- Autrement celui qui à la plus grande valeur gagne autant d'artichaut que la différence.
+- En plus, s'il a fait un 6, il vole 17% des artichauts que son adversaire a présentement (arrondi à l'entier supérieur).
+- Toutefois, si un joueur fait 1 et l'autre fait six, le nombre d'artichauts des deux joueurs et remis à zéro, trois parties sont rejouées et le gagnant de la partie est celui qui gagne une majorité de ces 3 nouvelles parties.
 
 ## Épreuve 5 - Dromepalins
 
@@ -52,7 +60,7 @@ Un dromepalin est un mot qui, lorsqu'on inverse la première partie du mot avec 
 ## Épreuve 6 - Hexanombres
 
 Écrivez un programme qui prend un nombre entier positif en argument et vérifie s'il est un [nombre hexagonal](https://fr.wikipedia.org/wiki/Nombre_hexagonal).
-Si c'est le cas, on affiche un bel hexagone en ascii art:
+Si c'est le cas, on affiche un bel hexagone en ascii art :
 
 ```
  __
@@ -71,9 +79,9 @@ Sinon, on affiche ce même hexagone, mais traversé par une barre
 
 ## Épreuve 7 - Arbre Binaire de Recherche Anarcho-Communiste
 
-Écrivez un programme qui reçoit une liste de nombre entiers et les insère dans un [arbre rouge-noir](https://fr.wikipedia.org/wiki/Arbre_bicolore) inversé dans l'ordre dans lequel ils sont donnés. Par `arbre rouge-noir inversé`, on entend un arbre-rouge noir trié en ordre décroissant plutôt que croissant. Donc:
+Écrivez un programme qui reçoit une liste de nombre entiers et les insère dans un [arbre rouge-noir](https://fr.wikipedia.org/wiki/Arbre_bicolore) inversé dans l'ordre dans lequel ils sont donnés. Par `arbre rouge-noir inversé`, on entend un arbre-rouge noir trié en ordre décroissant plutôt que croissant. Donc :
 
- - L'enfant gauche d'un noeud doit avoir une valeur supérieure ou égale à celle du noeud.
- - L'enfant droit d'un noeud doit avoir une valeur inférieure à celle du noeud.
+- L'enfant gauche d'un noeud doit avoir une valeur supérieure ou égale à celle du noeud.
+- L'enfant droit d'un noeud doit avoir une valeur inférieure à celle du noeud.
 
 Une fois que celà est fait, affichez le résultat du [parcours préfixe](https://fr.wikipedia.org/wiki/Arbre_binaire#Parcours_pr%C3%A9fixe,_infixe_et_postfixe) de l'arbre résultant. Les nombres doivent être affichés séparés par une virgule seulement `,`
